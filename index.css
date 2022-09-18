@@ -14,12 +14,10 @@ body{
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-color: #121214;
-}
-
-body *{
     font-family: sans-serif;
     line-height: 160%;
 }
+
 
 main{
     max-width: 580px;
